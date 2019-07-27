@@ -2,7 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-To view: 
-```
-npm start
-```
+Play here: https://tictactoehooks.netlify.com/
+
+To view in local: `npm start`
